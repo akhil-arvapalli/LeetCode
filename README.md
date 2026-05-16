@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhil-arvapalli/LeetCode/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/akhil-arvapalli/LeetCode/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
