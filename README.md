@@ -99,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akhil-arvapalli/LeetCode/tree/master/0200-number-of-islands) |
+| [3310-remove-methods-from-project](https://github.com/akhil-arvapalli/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akhil-arvapalli/LeetCode/tree/master/0200-number-of-islands) |
+| [3310-remove-methods-from-project](https://github.com/akhil-arvapalli/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/akhil-arvapalli/LeetCode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/akhil-arvapalli/LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/akhil-arvapalli/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
