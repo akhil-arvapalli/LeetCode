@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akhil-arvapalli/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2241-design-an-atm-machine](https://github.com/akhil-arvapalli/LeetCode/tree/master/2241-design-an-atm-machine) |
 ## Queue
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/akhil-arvapalli/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akhil-arvapalli/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akhil-arvapalli/LeetCode/tree/master/1406-stone-game-iii) |
+| [2241-design-an-atm-machine](https://github.com/akhil-arvapalli/LeetCode/tree/master/2241-design-an-atm-machine) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0011-container-with-most-water) |
+| [2241-design-an-atm-machine](https://github.com/akhil-arvapalli/LeetCode/tree/master/2241-design-an-atm-machine) |
 <!---LeetCode Topics End-->
