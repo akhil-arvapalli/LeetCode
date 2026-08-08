@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/akhil-arvapalli/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/akhil-arvapalli/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akhil-arvapalli/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akhil-arvapalli/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-arvapalli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/akhil-arvapalli/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/akhil-arvapalli/LeetCode/tree/master/0141-linked-list-cycle) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akhil-arvapalli/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhil-arvapalli/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/akhil-arvapalli/LeetCode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/akhil-arvapalli/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akhil-arvapalli/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akhil-arvapalli/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0011-container-with-most-water) |
 | [2241-design-an-atm-machine](https://github.com/akhil-arvapalli/LeetCode/tree/master/2241-design-an-atm-machine) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akhil-arvapalli/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akhil-arvapalli/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
