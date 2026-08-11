@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/akhil-arvapalli/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akhil-arvapalli/LeetCode/tree/master/1406-stone-game-iii) |
 | [2241-design-an-atm-machine](https://github.com/akhil-arvapalli/LeetCode/tree/master/2241-design-an-atm-machine) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhil-arvapalli/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akhil-arvapalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/akhil-arvapalli/LeetCode/tree/master/0217-contains-duplicate) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhil-arvapalli/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akhil-arvapalli/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/akhil-arvapalli/LeetCode/tree/master/0217-contains-duplicate) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhil-arvapalli/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
