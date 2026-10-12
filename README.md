@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhil-arvapalli/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/akhil-arvapalli/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-arvapalli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhil-arvapalli/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhil-arvapalli/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/akhil-arvapalli/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/akhil-arvapalli/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/akhil-arvapalli/LeetCode/tree/master/0075-sort-colors) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/akhil-arvapalli/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhil-arvapalli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/akhil-arvapalli/LeetCode/tree/master/0198-house-robber) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhil-arvapalli/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akhil-arvapalli/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/akhil-arvapalli/LeetCode/tree/master/0141-linked-list-cycle) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akhil-arvapalli/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2029-stone-game-ix](https://github.com/akhil-arvapalli/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akhil-arvapalli/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
