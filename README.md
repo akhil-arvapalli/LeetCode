@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/akhil-arvapalli/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/akhil-arvapalli/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhil-arvapalli/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/akhil-arvapalli/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhil-arvapalli/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/akhil-arvapalli/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/akhil-arvapalli/LeetCode/tree/master/0200-number-of-islands) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhil-arvapalli/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/akhil-arvapalli/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/akhil-arvapalli/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2029-stone-game-ix](https://github.com/akhil-arvapalli/LeetCode/tree/master/2029-stone-game-ix) |
 | [2241-design-an-atm-machine](https://github.com/akhil-arvapalli/LeetCode/tree/master/2241-design-an-atm-machine) |
