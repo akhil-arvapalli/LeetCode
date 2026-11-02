@@ -158,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/akhil-arvapalli/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/akhil-arvapalli/LeetCode/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/akhil-arvapalli/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/akhil-arvapalli/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/akhil-arvapalli/LeetCode/tree/master/0200-number-of-islands) |
 | [1765-map-of-highest-peak](https://github.com/akhil-arvapalli/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [3310-remove-methods-from-project](https://github.com/akhil-arvapalli/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -280,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhil-arvapalli/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/akhil-arvapalli/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/akhil-arvapalli/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
